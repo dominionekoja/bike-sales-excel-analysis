@@ -17,7 +17,7 @@ This project analyzes bike sales data using Microsoft Excel. The goal is to unco
 - Customer segmentation patterns
 
 ##  Dashboard Preview
-
+https://github.com/dominionekoja/bike-sales-excel-analysis/blob/main/dashboard_preview.png
 
 
 ##  How to Use
